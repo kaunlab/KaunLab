@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 For information related to software for running _Drosophila_ behavior tracking assays developed by the Kaun Lab at Brown University, please go to: https://github.com/kaun-lab.
-_
+
 <!--
 **kaunlab/KaunLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
