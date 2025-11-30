@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+The Kaun Lab at Brown University designs and develops custom equipment for tracking fly behavior. We endeavor to make everything we design and develop as open access. You can find resources to design and operate our published apparatuses below. All of the data acquired with each apparatus is published in the Brown Data Repository with the link in the Data Availability section within each publication. 
+
+If you can't find what you need here or if you are having issues with the code, please feel free to contact us: kaunlab@gmail.com.
+
 <!--
 **kaunlab/KaunLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
